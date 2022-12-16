@@ -1,1 +1,1 @@
-# my-existing-project2
+# My-Existing-Project1
